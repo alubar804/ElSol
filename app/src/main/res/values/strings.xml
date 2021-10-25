@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">El Sol</string>
+    <string name="renombrar">Renombrar</string>
+    <string name="copiar">Copiar</string>
+    <string name="cortar">Cortar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="mover">Mover</string>
+    <string name="compara_planetas">Compara planetas</string>
+    <string name="diametro">Diametro</string>
+    <string name="distancia_al_sol">Distancia al sol</string>
+    <string name="densidad">Densidad</string>
+</resources>
